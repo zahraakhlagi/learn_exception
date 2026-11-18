@@ -1,0 +1,11 @@
+When writing a Java program, we normally expect our code to execute step by step, following the instructions we have written.
+
+However, sometimes unexpected problems occur while the program is running.
+
+For example:
+
+A user enters text when the program expects a number.
+The program tries to divide a number by zero.
+A file that the program needs does not exist.
+The program tries to access an invalid position in an array.
+A database connection fails.this is a test new buffer writertest one more time
